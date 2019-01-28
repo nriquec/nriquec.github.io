@@ -7,10 +7,10 @@ permalink: /about/
 * Intern in a Investment Bank
 
 ### Skills
-_* Economic:_ Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory, 
-_* Quantitative:_ Real analysis, Statistics, Differential equations, Econometrics.
-_* Programming Languages:_ R Project, VBA, Python, Java.
-_* Others:_ Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
+* _Economic:_ Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory. 
+* _Quantitative:_ Real analysis, Statistics, Differential equations, Econometrics.
+* _Programming Languages:_ R Project, VBA, Python, Java.
+* _Others:_ Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
 
 ### Contact me
 
