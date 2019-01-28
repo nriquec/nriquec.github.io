@@ -3,14 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-Bachelor of Economics by Instituo Politecnico Nacional.
-Intern in a Investment Bank
+*Bachelor of Economics by Instituo Politecnico Nacional.
+*Intern in a Investment Bank
 
 ### Skills
-Economic: Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory, 
-Quantitative: Real analysis, Statistics, Differential equations, Econometrics.
-Programming Languages: R Project, VBA, Python, Java.
-Others: Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
+*_Economic:_ Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory, 
+*_Quantitative:_ Real analysis, Statistics, Differential equations, Econometrics.
+*_Programming Languages:_ R Project, VBA, Python, Java.
+*_Others:_ Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
 
 ### Contact me
 
