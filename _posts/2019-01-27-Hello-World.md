@@ -4,4 +4,4 @@ title: !Mi primer Blog¡
 ---
 
 Este es el primer blog
-###Sección 1 
+## Sección 1 
