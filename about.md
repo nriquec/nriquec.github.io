@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Education
 * Bachelor of Economics by Instituo Politecnico Nacional. 
- * Thesis: [Política Monetaria y Precisión de las Expectativas de Inflación en México.](https://www.dropbox.com/s/ghges5sbkv5jcwv/Tesis.pdf?dl=0)
+ * Thesis: [Monetary Policy and Accuracy of Inflation Expectations in Mexico.](https://www.dropbox.com/s/ghges5sbkv5jcwv/Tesis.pdf?dl=0)
 
 ### Jobs
 * Quant and Economist analyst
