@@ -4,8 +4,12 @@ title: Mi primer Blog
 ---
 
 Este es el primer blog
-## Sección 1 
+## 1. Estructuras lapply 
+Las estructuras lapply pueden ser utilizdas para realizar iteraciones al estilo del for. 
 
 ``` r
-x=10
-y=15
+x<-lapply(1:nrow(datos), function(x){
+                         x+y
+                         })
+                         
+                         
