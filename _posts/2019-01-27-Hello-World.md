@@ -12,4 +12,4 @@ x<-lapply(1:nrow(datos), function(x){
                          x+y
                          })
                          
-                         
+```                         
