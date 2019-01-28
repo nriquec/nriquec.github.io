@@ -3,7 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-* Bachelor of Economics by Instituo Politecnico Nacional.
+### Education
+* Bachelor of Economics by Instituo Politecnico Nacional. 
+  ** Thesis: [Política Monetaria y Precisión de las Expectativas de Inflación en México] (https://www.dropbox.com/s/ghges5sbkv5jcwv/Tesis.pdf?dl=0)
+### Jobs
+* Quant and Economist analyst
 * Intern in a Investment Bank
 
 ### Skills
