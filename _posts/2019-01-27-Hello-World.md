@@ -10,6 +10,5 @@ Las estructuras lapply pueden ser utilizdas para realizar iteraciones al estilo 
 ``` r
 x<-lapply(1:nrow(datos), function(x){
                          x+y
-                         })
-                         
-```                         
+                         })                      
+```
