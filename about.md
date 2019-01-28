@@ -3,13 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+Bachelor of Economics by Instituo Politecnico Nacional.
+Intern in a Investment Bank
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Skills
+Economic: Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory, 
+Quantitative: Real analysis, Statistics, Differential equations, Econometrics.
+Programming Languages: R Project, VBA, Python, Java.
+Others: Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nriquec.l@gmail.com](nriquec.l@gmail.com)
