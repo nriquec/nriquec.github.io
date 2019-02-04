@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Mi primer Blog
+title: Finding the optimal sample in the ARIMA models
 ---
 
-Este es el primer blog
-## 1. Estructuras lapply 
+
 Las estructuras lapply pueden ser utilizdas para realizar iteraciones al estilo del for. 
 
 ```{r}
-x<-lapply(1:nrow(datos), function(x){
-                         x+y
-                         })   
-
-set.seed(1234)
-library(ggplot2)
-library(lattice)
+library(forecast)
+library(dplyr)
 ```
+
+
+
+
