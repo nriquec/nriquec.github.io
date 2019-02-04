@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding the optimal sample in the ARIMA models
+title: Finding the optimal sample in ARIMA models
 ---
 
 
