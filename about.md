@@ -8,7 +8,7 @@ permalink: /about/
  * Thesis: [Monetary Policy and Accuracy of Inflation Expectations in Mexico.](https://www.dropbox.com/s/ghges5sbkv5jcwv/Tesis.pdf?dl=0)
 
 ### Work Experience
-* Quant and Economist Analyst (Equity, Forex and Term Structure)
+* Analyst at Actinver
 
 ### Skills
 * **Economic:** Macreoconomics, Microeconomics, Financial theory, Modern Portfolio Theory. 
@@ -17,4 +17,4 @@ permalink: /about/
 * **Others:** Photoshop, HTML5, XML, Web Scrapping, Corel Draw.
 
 ### Contact me
-[nriquec.l@gmail.com](nriquec.l@gmail.com)
+[nriquec@hotmail.com](nriquec@hotmail.com)
